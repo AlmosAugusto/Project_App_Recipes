@@ -24,7 +24,9 @@
   
   - JavaScript 
   - React Hooks
+  - Context API
   - Kanban
+  - React Testing Library 
   
 </details>
 
@@ -34,12 +36,14 @@
   </summary><br>
   Neste projeto, foi verificado como:
 
-* Aplicar o conhecimento dos pilares da Programação Orientada a Objetos: Herança, Abstração, Encapsulamento e Polimorfismo;
-* Aplicar a utilização de Composição;
-* Aplicar a criação e utilização de Interfaces;
-* Implementar, em TypeScript: Classes, Instâncias, Atributos, Métodos e Objetos;
-* Aplicar os conhecimentos de MongoDB, Typescript e POO para criar uma API com CRUD.
+* Aplicar e desenvolver um sistema que permite visualizar, buscar, filtrar, favoritar, compartilhar e acompanhar o processo de preparação de receitas e drinks. A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas;
+* O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores;
+* Cobertura de testes, código deve ser testável, e deve possuir uma suite de testes robusta e com alta cobertura;
 
+
+
+  
+  
 ### Project Preview
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88805423/171513171-ff67d15e-d7b4-491c-9c0e-945713cc0c9d.gif)
