@@ -6,7 +6,7 @@
     <strong>:memo: Sobre o projeto</strong>
   </summary><br>
   
-  - Projeto App de Receitas desenvolvido em grupo na Trybe no módulo de Back-End..
+  - Projeto App de Receitas desenvolvido em grupo na Trybe no módulo de Front-End..
   
   - Desenvolver um app de receitas, que deverá se conectar com  duas 2 API’s ao mesmo tempo e implementar uma interface mobile only.
   Grupo:
